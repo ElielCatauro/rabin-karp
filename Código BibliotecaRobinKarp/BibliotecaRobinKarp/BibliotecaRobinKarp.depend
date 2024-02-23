@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1704377562 source:d:\users\user\desktop\ayda 2\tests\bibliotecarobinkarp\main.cpp
+	<iostream>
+	<string>
+	"Libro.h"
+	"RobinKarp.h"
+
+1704376900 d:\users\user\desktop\ayda 2\tests\bibliotecarobinkarp\include\libro.h
+	<string>
+	"Buscador.h"
+
+1704377562 source:d:\users\user\desktop\ayda 2\tests\bibliotecarobinkarp\src\libro.cpp
+	<iostream>
+	"Libro.h"
+	<string>
+
+1707833167 d:\users\user\desktop\ayda 2\tests\bibliotecarobinkarp\include\robinkarp.h
+	"Buscador.h"
+	<string>
+	<iostream>
+
+1704376214 source:d:\users\user\desktop\ayda 2\tests\bibliotecarobinkarp\src\robinkarp.cpp
+	"RobinKarp.h"
+	<cmath>
+
+1704376610 d:\users\user\desktop\ayda 2\tests\bibliotecarobinkarp\include\buscador.h
+	<string>
+
